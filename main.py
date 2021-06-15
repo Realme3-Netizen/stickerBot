@@ -133,7 +133,7 @@ async def help_handler(c: Client, m: Message):
         "Hi, I do not have much to say on help - I just create telegram stickers from the text messages you send me. "
         "\nMy creator @dumdum27 "
         
-        "\nJoin Our group [Offtopic Chat Group](https://t.me/offtopichatgroup)
+        "\nJoin Our group [Offtopic Chat Group](https://t.me/offtopichatgroup)",
 
         disable_web_page_preview=True
     )
