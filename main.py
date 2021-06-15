@@ -132,8 +132,8 @@ async def help_handler(c: Client, m: Message):
     await m.reply_text(
         "Hi, I do not have much to say on help - I just create telegram stickers from the text messages you send me. "
         "\nMy creator @dumdum27 "
-  "
-        "",
+ 
+
         disable_web_page_preview=True
     )
 
